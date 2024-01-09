@@ -1,6 +1,6 @@
 module github.com/ekristen/cloud-nuke-sdk
 
-go 1.21.0
+go 1.21.6
 
 require (
 	github.com/fatih/color v1.16.0
